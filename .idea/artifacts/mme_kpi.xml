@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mme_kpi">
+    <output-path>$PROJECT_DIR$/out/artifacts/mme_kpi</output-path>
+    <root id="archive" name="mme_kpi.jar">
+      <element id="module-output" name="MME_KPI_ReportTool" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Project_Tools/mysql-connector-java-8.0.21/mysql-connector-java-8.0.21.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
